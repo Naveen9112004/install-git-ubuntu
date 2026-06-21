@@ -3,8 +3,6 @@
 A step-by-step guide to installing, configuring, and linking Git and GitHub on an Ubuntu system.
 
 
-🛠️ Step-by-Step Installation
-
 # Step 1: Install Git
 
 Run the following command to download and install Git:
