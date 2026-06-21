@@ -15,7 +15,7 @@ Check if Git is successfully installed by checking its version:
 
 **Bash : git --version**
 
-# 👤 Step 3: Configure Your Git Identity
+#  Step 3: Configure Your Git Identity
 
 Git requires a username and email to track who makes changes to the code. Set your global configurations below (replace with your details):
 
@@ -30,7 +30,7 @@ Set the default initial branch name to main to ensure compatibility with GitHub:
 
 **Bash : git config --global init.defaultBranch main**
 
-# 🚀 Step 5: Link Your GitHub Account (GitHub CLI)
+# Step 5: Link Your GitHub Account (GitHub CLI)
 
 The easiest way to authorize your Ubuntu terminal with GitHub is by using the official GitHub CLI tool.
 
