@@ -20,6 +20,7 @@ Check if Git is successfully installed by checking its version:
 Git requires a username and email to track who makes changes to the code. Set your global configurations below (replace with your details):
 
 **Bash**
+
 **git config --global user.name "Your Name"**
 
 **git config --global user.email "your-email@example.com"**
